@@ -1,0 +1,22 @@
+{
+  "name": "sderosiaux-claude-plugins",
+  "owner": {
+    "name": "sderosiaux"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by sderosiaux"
+  },
+  "plugins": [
+    {
+      "name": "claude-warehouse",
+      "source": {
+        "source": "github",
+        "repo": "sderosiaux/claude-warehouse"
+      },
+      "description": "Long-term memory for Claude Code. Search and query across all past sessions via DuckDB.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["memory", "duckdb", "search", "analytics"]
+    }
+  ]
+}

@@ -13,10 +13,10 @@
         "source": "github",
         "repo": "sderosiaux/claude-warehouse"
       },
-      "description": "Developer analytics for AI-assisted coding. Every session captured, searchable, queryable. Understand your habits, track costs, improve your workflow.",
-      "version": "0.2.0",
+      "description": "Developer analytics & live dashboard for Claude Code. Every session synced to DuckDB — search, query, visualize.",
+      "version": "0.3.0",
       "category": "productivity",
-      "tags": ["analytics", "memory", "duckdb", "productivity", "costs", "search"]
+      "tags": ["analytics", "memory", "duckdb", "productivity", "costs", "search", "dashboard"]
     }
   ]
 }

@@ -14,7 +14,7 @@
         "repo": "sderosiaux/claude-warehouse"
       },
       "description": "Developer analytics & live dashboard for Claude Code. Every session synced to DuckDB — search, query, visualize.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "category": "productivity",
       "tags": ["analytics", "memory", "duckdb", "productivity", "costs", "search", "dashboard"]
     }

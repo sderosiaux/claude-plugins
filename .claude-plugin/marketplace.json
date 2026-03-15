@@ -19,7 +19,7 @@
       "tags": ["analytics", "memory", "duckdb", "productivity", "costs", "search", "dashboard"]
     },
     {
-      "name": "claudecode-autoresearch",
+      "name": "autoresearch",
       "source": {
         "source": "github",
         "repo": "sderosiaux/claudecode-autoresearch"

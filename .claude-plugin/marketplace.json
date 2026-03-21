@@ -25,7 +25,7 @@
         "repo": "sderosiaux/claudecode-autoresearch"
       },
       "description": "Autonomous experiment loop for Claude Code. Edit, benchmark, keep or discard, repeat forever.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity",
       "tags": ["autoresearch", "experiments", "optimization", "benchmarks", "autonomous"]
     }

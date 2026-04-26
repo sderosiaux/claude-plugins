@@ -16,7 +16,18 @@
       "description": "Developer analytics & semantic search for Claude Code. Every session synced to DuckDB with vector embeddings — search by meaning, query, visualize.",
       "version": "0.4.0",
       "category": "productivity",
-      "tags": ["analytics", "memory", "duckdb", "productivity", "costs", "search", "dashboard", "vector", "semantic", "embeddings"]
+      "tags": [
+        "analytics",
+        "memory",
+        "duckdb",
+        "productivity",
+        "costs",
+        "search",
+        "dashboard",
+        "vector",
+        "semantic",
+        "embeddings"
+      ]
     },
     {
       "name": "autoresearch",
@@ -27,7 +38,33 @@
       "description": "Autonomous experiment loop for Claude Code. Edit, benchmark, keep or discard, repeat forever.",
       "version": "1.0.1",
       "category": "productivity",
-      "tags": ["autoresearch", "experiments", "optimization", "benchmarks", "autonomous"]
+      "tags": [
+        "autoresearch",
+        "experiments",
+        "optimization",
+        "benchmarks",
+        "autonomous"
+      ]
+    },
+    {
+      "name": "attention-router",
+      "source": {
+        "source": "github",
+        "repo": "sderosiaux/attention-router"
+      },
+      "description": "Triage AI coding agents questions. 5-persona LLM council auto-resolves what is safe, surfaces only the highest-value decisions to you.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": [
+        "agent",
+        "decision",
+        "council",
+        "router",
+        "llm",
+        "triage",
+        "attention",
+        "no-naked-questions"
+      ]
     }
   ]
 }

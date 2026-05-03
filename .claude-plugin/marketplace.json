@@ -14,7 +14,7 @@
         "repo": "sderosiaux/claude-warehouse"
       },
       "description": "Developer analytics & semantic search for Claude Code. Every session synced to DuckDB with vector embeddings — search by meaning, query, visualize.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "category": "productivity",
       "tags": [
         "analytics",
